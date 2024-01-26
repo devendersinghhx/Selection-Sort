@@ -20,5 +20,3 @@ Here's a brief step-by-step explanation:
   5. Repeat: Repeat steps 2-4 until the entire array is sorted.
 
 The time complexity of the Selection Sort algorithm is O(n^2), where 'n' is the number of elements in the array. It is not the most efficient sorting algorithm for large datasets, but it is simple to understand and implement.
-
-hi its me devender
